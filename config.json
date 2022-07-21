@@ -1,0 +1,78 @@
+{
+    "LANGUAGE": {
+        "EN": "*Please select a language!*",
+        "RU": "*Пожалуйста выберите язык!*",
+        "UA": "*Будь ласка, виберіть мову!*"
+    },
+    "STATS": {
+        "EN": "*You downloaded:*\n*{}* videos.\n*{}* audios.\n",
+        "RU": "*Вы скачали:*\n*{}* видео.\n*{}* аудио.\n",
+        "UA": "*Ви завантажили:*\n*{}* відео.\n*{}* аудіо.\n"
+    },
+    "VIDEO UNAVAILABLE": {
+        "EN": "*Video unavailable!*\n\nTo download the video, send the link in the format:",
+        "RU": "*Видео недоступно!*\n\nЧтобы скачать видео, пришлите ссылку в формате:",
+        "UA": "*Відео недоступне!*\n\nЩоб завантажити відео, надішліть посилання у форматі:"
+    },
+    "LIVESTREAM": {
+        "EN": "*Unable to download live stream!*\n\nTo download the video, send the link in the format:",
+        "RU": "*Не удалось загрузить прямую трансляцию!*\n\nЧтобы скачать видео, пришлите ссылку в формате:",
+        "UA": "*Не вдалося завантажити пряму трансляцію!*\n\nЩоб завантажити відео, надішліть посилання у форматі:"
+    },
+    "DOWNLOADED": {
+        "EN": "Downloaded with @youdownloarer_bot",
+        "RU": "Скачано через @youdownloarer_bot",
+        "UA": "Завантажено через @youdownloarer_bot"
+    },
+    "AUDIO DOWNLOADING NOW": {
+        "EN": "This audio is already downloading!",
+        "RU": "Это аудио уже скачивается!",
+        "UA": "Це аудіо вже завантажується!"
+    },
+    "VIDEO DOWNLOADING NOW": {
+        "EN": "This video is already downloading!",
+        "RU": "Это видео уже скачивается!",
+        "UA": "Це відео вже завантажується!"
+    },
+    "PLEASE WAIT AUDIO": {
+        "EN": "Please wait, the audio is loading!",
+        "RU": "Подождите, аудио загружается!",
+        "UA": "Зачекайте, аудіо завантажується!"
+    },
+    "PLEASE WAIT VIDEO": {
+        "EN": "Please wait, the video is loading!",
+        "RU": "Подождите, видео загружается!",
+        "UA": "Зачекайте, відео завантажується!"
+    },
+    "WRONG INPUT": {
+        "EN": "*Wrong input!*\n\nTo download the video, send the link in the format:",
+        "RU": "*Неправильный ввод!*\n\nЧтобы скачать видео, пришлите ссылку в формате:",
+        "UA": "*Неправильне введення!*\n\nЩоб завантажити відео, надішліть посилання у форматі:"
+    },
+    "VIDEO INCOMPLETE READ": {
+        "EN": "*Incomplete read!*\n\nI'm sorry, but I can't upload this video!",
+        "RU": "*Неполное чтение!*\n\nПрошу прощения, но я не могу загрузить это видео!",
+        "UA": "*Неповне прочитання!*\n\nПерепрошую, але я не можу завантажити це відео!"
+    },
+    "AUDIO INCOMPLETE READ": {
+        "EN": "*Incomplete read!*\n\nI'm sorry, but I can't upload this audio!",
+        "RU": "*Неполное чтение!*\n\nПрошу прощения, но я не могу загрузить это аудио!",
+        "UA": "*Неповне прочитання!*\n\nПерепрошую, але я не можу завантажити це аудіо!"
+    },
+    "CHOOSE": {
+        "EN": "*Please select a download type.*",
+        "RU": "*НВыберите тип загрузки.*",
+        "UA": "*\nВиберіть тип завантаження.*"
+    },
+    "WELCOME": {
+        "EN": "*Welcome to YouTube Downloader!*\nUsing this bot, you can download YouTube videos.\n\n",
+        "RU": "*Добро пожаловать в YouTube Downloader!*\nС помощью этого бота вы можете скачивать видео с YouTube.\n\n",
+        "UA": "*Вітаємо в YouTube Downloader!*\nЗа допомогою цього бота ви можете завантажувати відео з YouTube.\n\n"
+    },
+    "TO START": {
+        "EN": "*To start downloading, simply submit the link to the YouTube video in the format:*\n",
+        "RU": "*Чтобы начать загрузку, просто отправьте ссылку на видео YouTube в формате:*\n",
+        "UA": "*Щоб розпочати завантаження, просто надішліть посилання на відео YouTube у форматі:*\n"
+    },
+    "FORMATS": "\nhttps://youtu.be/XXXXXXXXXXX\nhttps://www.youtube.com/watch?v=XXXXXXXXXXX"
+}
